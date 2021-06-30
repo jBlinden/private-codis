@@ -9,9 +9,9 @@ Paper Reference
 --------------------------------
 
 This is an implementation of the protocols from the following paper:
-* Blindenbach, J.A., Jagadeesh, K.A., Bejerano, G. *et al*. Avoiding genetic racial profiling in criminal DNA profile databases. *Nat Comput Sci* **1**, 272–279 (2021). https://doi.org/10.1038/s43588-021-00058-3
+* Blindenbach, J.A., Jagadeesh, K.A., Bejerano, G., Wu, D.J. Avoiding genetic racial profiling in criminal DNA profile databases. *Nat Comput Sci* **1**, 272–279 (2021). https://doi.org/10.1038/s43588-021-00058-3
 
-The full text is available [here](https://rdcu.be/cjq70).
+The full text is available at https://rdcu.be/cjq70.
 
 Please contact Jacob Blindenbach (jab7dq@virginia.edu) if you have questions about this code.
 
