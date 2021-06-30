@@ -9,19 +9,11 @@ Paper Reference
 --------------------------------
 
 This is an implementation of the protocols from the following paper:
-* Jacob A. Blindenbach, Karthik A. Jagadeesh, Gill Bejerano, and David J. Wu.
-Avoiding genetic racial profiling in criminal DNA profile databases.
-A preliminary version of this work is available
-on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.22.164095v1).
+* Blindenbach, J.A., Jagadeesh, K.A., Bejerano, G. *et al*. Avoiding genetic racial profiling in criminal DNA profile databases. *Nat Comput Sci* **1**, 272–279 (2021). https://doi.org/10.1038/s43588-021-00058-3
+
+The full text is available [here](https://rdcu.be/cjq70).
 
 Please contact Jacob Blindenbach (jab7dq@virginia.edu) if you have questions about this code.
-
---------------------------------
-Github Repository
---------------------------------
-
-An updated version of the code is maintained in the
-[`private-codis`](https://github.com/jBlinden/private-codis) Github repository.
 
 --------------------------------
 System Requirements
